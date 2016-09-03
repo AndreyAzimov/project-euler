@@ -1,6 +1,7 @@
 ![](https://github.com/AndreyAzimov/project-euler/blob/master/progress.jpg)
 
-In scope of practice algorithmic programing I start to solve [Project Euler][site] problems.
+In scope of practice algorithmic programing I started to solve [Project Euler][site] problems.
+
 I completed 13 problems on C# language.
 
 1. [Multiples of 3 and 5][p1]
