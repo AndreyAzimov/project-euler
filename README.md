@@ -8,14 +8,14 @@ I completed 13 problems on C# language.
 3. [Largest prime factor][p3]
 4. [Largest palindrome product][p4]
 5. [Smallest multiple][p5]
-6. [Sum square difference]
-7. [10001st prime]
-8. [Largest product in a series]
-9. [Special Pythagorean triplet]
-10. [Summation of primes]
-13. [Large sum]
-19. [Counting Sundays]
-20. [Factorial digit sum]
+6. [Sum square difference][p6]
+7. [10001st prime][p7]
+8. [Largest product in a series][p8]
+9. [Special Pythagorean triplet][p9]
+10. [Summation of primes][p10]
+13. [Large sum][p13]
+19. [Counting Sundays][p19]
+20. [Factorial digit sum][p20]
 
 [site]:<http://projecteuler.net>
 
