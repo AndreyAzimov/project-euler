@@ -2,7 +2,7 @@
 
 In scope of the practice algorithmic programing I started to solve [Project Euler][site] problems.
 
-I completed 13 problems on C#.
+I completed 13 problems on Python.
 
 1. [Multiples of 3 and 5][p1]
 2. [Even Fibonacci numbers][p2]
