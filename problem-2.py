@@ -9,23 +9,23 @@ Answer: 4613732
 '''
 
 arr = [0,1]
-arr_odd = []
+arr_even = []
 
 sum = 0
-sum_odd = 0
+sum_even = 0
 n = 2
 
 while sum < 4000000:
 	sum = arr[n-2] + arr[n-1]
 	
 	if sum % 2 == 0:
-		arr_odd.append(sum)
+		arr_even.append(sum)
 
 	arr.append(sum)
 
 	n = n + 1
 
 for n in arr_odd:
-	sum_odd = sum_odd + n
+	sum_even = sum_even + n
 
-print(sum_odd)
+print(sum_even)
